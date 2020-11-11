@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Numeros Maravillosos.exe" version="1.0.0.1" publicKeyToken="3cb289622a6f7cdd" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="cubos.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Numeros Maravillosos" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Numeros Maravillosos.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la 
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Numeros Maravillosos.exe" size="78336">
+      <assemblyIdentity name="Numeros Maravillosos" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>slOiu6+poEqGBE2e7BmPUAt3ckgwIV38pc6zgUebvrk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="cubos.ico" size="38899">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>JlrnA7eXvOoQ+aWuXJ8BU9Z3m5rZFBBL/FJhvhm7w8Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Numeros Maravillosos.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-NH6IRPO\hp" issuerKeyHash="7bfe46505e5ead6b4aeca41f0c80bd70129d8b94" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>CxjG3bZjbwH4Jh0J0OwgW6NG4avoc8/vhhrkHtqW8jE=</DigestValue></Reference></SignedInfo><SignatureValue>T9LtfklG5W20IaLgUP7rvOcvZ9qVIhjnvNcsAQEqK/fo7SIsjh0lKf+ofssio6XPNJ+QmBPZCYEWbBCA/xtWTLe51sZlwop/idG2Rov1UdWG5dZSUELddeo2qr+aGXPb6TFFEnKfyLYqUD10nBzLmrj6wS7244KGVHkT7wLoVvE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>raLjbOQFCdhH3vwf9XxgwoA6dpxsRzZA3W9xfUMJ5itM8nnctzUDeSJ+L9A7gvJHrcbBLnaOdykv6gucZazDEPrrdrhasvExWb2acxhveFePmTPAZ+shtukRHHk/bfUQaXonsH1y1VnZIAszRodoLzezFdpQFN0mc2ocLmvh9kk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="31f296da1ee41a86efcf73e8abe146a35b20ecd0091d26f8016f63b6ddc6180b" Description="" Url=""><as:assemblyIdentity name="Numeros Maravillosos.exe" version="1.0.0.1" publicKeyToken="3cb289622a6f7cdd" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-NH6IRPO\hp</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>7lv8WlFu12+uruga/LYlZ+qlzXPRW1cSduZtwyMwunY=</DigestValue></Reference></SignedInfo><SignatureValue>gdsF8LQJfgyMSbYH4OkBP4Io7Rf/SkfY2CsVVVs0ZZv6yrpFJzj2/tFSVvktFlsjYBdzPpsDYgg6xf9/UjanHHnzVZF0LcC7w72BuGkivfGV7lQJ7+HNSW4d+69rKO43tm5WAPnw9oYGfEyOY2QJhrqBZM7HXmsWIuGcSJ+tw50=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>raLjbOQFCdhH3vwf9XxgwoA6dpxsRzZA3W9xfUMJ5itM8nnctzUDeSJ+L9A7gvJHrcbBLnaOdykv6gucZazDEPrrdrhasvExWb2acxhveFePmTPAZ+shtukRHHk/bfUQaXonsH1y1VnZIAszRodoLzezFdpQFN0mc2ocLmvh9kk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQSEPc1ki6rY5EYtTKnNI3FTANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQARABFAFMASwBUAE8AUAAtAE4ASAA2AEkAUgBQAE8AXABoAHAwHhcNMjAxMTExMTQ0MzM4WhcNMjExMTExMjA0MzM4WjAvMS0wKwYDVQQDHiQARABFAFMASwBUAE8AUAAtAE4ASAA2AEkAUgBQAE8AXABoAHAwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK2i42zkBQnYR978H/V8YMKAOnacbEc2QN1vcX1DCeYrTPJ53Lc1A3kifi/QO4LyR63GwS52jncpL+oLnGWswxD663a4WrLxMVm9mnMYb3hXj5kzwGfrIbbpERx5P231EGl6J7B9ctVZ2SALM0aHaC83sxXaUBTdJnNqHC5r4fZJAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAQfnAeGsvihWSfYGR7mf66Fj5PHJ7qF8pinbPRF/7C4QqKH+EYW/yqkw0iREzI8fZJIp/cBNe2Ps1JJ9pIIDKN3dN7N5Qwg0IuYM2zxrMuwQkad/ZkdUIEbQmfzVmUlm0uw1WalDDUn/v8TMc3W/mdnkWj2MqcjFrl7gRGJGUjkI=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

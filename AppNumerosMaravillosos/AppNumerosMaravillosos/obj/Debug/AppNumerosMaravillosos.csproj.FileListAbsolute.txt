@@ -1,0 +1,27 @@
+C:\Users\Computadora\Desktop\AppNumerosMaravillosos\AppNumerosMaravillosos\bin\Debug\AppNumerosMaravillosos.exe.config
+C:\Users\Computadora\Desktop\AppNumerosMaravillosos\AppNumerosMaravillosos\bin\Debug\AppNumerosMaravillosos.exe
+C:\Users\Computadora\Desktop\AppNumerosMaravillosos\AppNumerosMaravillosos\bin\Debug\AppNumerosMaravillosos.pdb
+C:\Users\Computadora\Desktop\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\AppNumerosMaravillosos.csprojResolveAssemblyReference.cache
+C:\Users\Computadora\Desktop\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\AppNumerosMaravillosos.Form1.resources
+C:\Users\Computadora\Desktop\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\AppNumerosMaravillosos.Properties.Resources.resources
+C:\Users\Computadora\Desktop\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\AppNumerosMaravillosos.csproj.GenerateResource.Cache
+C:\Users\Computadora\Desktop\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\AppNumerosMaravillosos.exe
+C:\Users\Computadora\Desktop\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\AppNumerosMaravillosos.pdb
+C:\Users\Computadora\Desktop\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\AppNumerosMaravillosos.method1.resources
+C:\Users\Computadora\Desktop\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\AppNumerosMaravillosos.method2.resources
+C:\Users\Computadora\Desktop\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\AppNumerosMaravillosos.method3.resources
+C:\Users\hp\Documents\Tareas\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\AppNumerosMaravillosos.Form1.resources
+C:\Users\hp\Documents\Tareas\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\AppNumerosMaravillosos.method1.resources
+C:\Users\hp\Documents\Tareas\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\AppNumerosMaravillosos.method2.resources
+C:\Users\hp\Documents\Tareas\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\AppNumerosMaravillosos.method3.resources
+C:\Users\hp\Documents\Tareas\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\AppNumerosMaravillosos.Properties.Resources.resources
+C:\Users\hp\Documents\Tareas\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\AppNumerosMaravillosos.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Tareas\AppNumerosMaravillosos\AppNumerosMaravillosos\bin\Debug\Numeros Maravillosos.exe.config
+C:\Users\hp\Documents\Tareas\AppNumerosMaravillosos\AppNumerosMaravillosos\bin\Debug\Numeros Maravillosos.exe.manifest
+C:\Users\hp\Documents\Tareas\AppNumerosMaravillosos\AppNumerosMaravillosos\bin\Debug\Numeros Maravillosos.application
+C:\Users\hp\Documents\Tareas\AppNumerosMaravillosos\AppNumerosMaravillosos\bin\Debug\Numeros Maravillosos.exe
+C:\Users\hp\Documents\Tareas\AppNumerosMaravillosos\AppNumerosMaravillosos\bin\Debug\Numeros Maravillosos.pdb
+C:\Users\hp\Documents\Tareas\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\Numeros Maravillosos.exe.manifest
+C:\Users\hp\Documents\Tareas\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\Numeros Maravillosos.application
+C:\Users\hp\Documents\Tareas\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\Numeros Maravillosos.exe
+C:\Users\hp\Documents\Tareas\AppNumerosMaravillosos\AppNumerosMaravillosos\obj\Debug\Numeros Maravillosos.pdb
